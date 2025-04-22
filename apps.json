@@ -1,7 +1,7 @@
 [
     {
         "osName": "Android",
-        "name": "Hiddify",
+        "name": "Hiddify (پیشنهادی)",
         "descriptionFa": "این برنامه قابلیت اتصال خودکار به بهترین پروکسی را دارد.",
         "descriptionEn": "This app will automatically choose the best proxy for you.",
         "logo": "https://iili.io/27zFlFj.png",
@@ -25,7 +25,7 @@
     },
     {
         "osName": "iOS",
-        "name": "Hiddify",
+        "name": "Hiddify (پیشنهادی)",
         "descriptionFa": "این برنامه قابلیت اتصال خودکار به بهترین پروکسی را دارد.",
         "descriptionEn": "This app will automatically choose the best proxy for you.",
         "logo": "https://iili.io/27zFlFj.png",
